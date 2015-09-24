@@ -1,0 +1,28 @@
+* {border: 1px solid red;}
+HTML, body {height: 100%;
+margin: 0%;
+
+background-color: grey
+
+}
+.top {
+	height: 15%;
+	background-color: black
+}
+
+
+.middle {
+	background-color: white;
+	height: 100%;
+	width: 80%;
+	margin-left: 10%
+}
+
+.bottombar{
+	background-color: black;
+	height: 15%;
+	bottom:0;
+	width: 80%;
+	margin-left: 10%;
+	
+}
