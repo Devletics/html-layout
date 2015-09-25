@@ -1,0 +1,30 @@
+* {border:}
+HTML, body {height: 100%;
+margin: 0%;
+}
+
+.col {
+	float:left;
+	height: 100%;
+	width: 33%;	
+}
+
+#left{
+	background-color: #4A90E2;	
+}
+
+#middle{
+	background-color:#50E3C2;
+	
+}
+
+#right {
+	height: 67%;
+	background-color: #B8E986;
+}
+
+#corner {
+	background-color: red;
+	height: 33%;
+}
+

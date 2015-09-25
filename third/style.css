@@ -1,0 +1,46 @@
+* {border:}
+HTML, body {height: 100%;
+margin: 0%;
+}
+
+.grey {
+	float:top;
+	height: 10%;
+	background-color: gray	
+}
+
+#box{	
+	background-color: lightblue;
+	width: 50px;
+	height:50px;
+	
+}
+.textspace{
+	background-color: white;
+	height: 50%;	
+}
+
+.blue {
+	float:bottom;
+	height: 10%;
+	background-color: blue
+	
+}
+
+.teal{
+	float:bottom;
+	height: 10%;
+	background-color: teal;
+}
+
+.green{
+	float:bottom;
+	height: 10%;
+	background-color: green;
+}
+
+.yellow{
+	float:bottom;
+	height: 10%;
+	background-color: yellow;
+}
